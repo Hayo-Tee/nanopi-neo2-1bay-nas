@@ -1,4 +1,4 @@
-## Running OpenWrt/ImmortalWrt on NanoPi NEO2 with 1-Bay NAS Kit
+Running OpenWrt/ImmortalWrt on NanoPi NEO2 with 1-Bay NAS Kit
 
 I have a **NanoPi NEO2** and a **1-Bay NAS Kit**. Unfortunately, I couldn't find any online guides on how to make my NAS Kit work with OpenWrt or ImmortalWrt. After some research and help from ChatGPT, I discovered a simple solution: modifying the Device Tree Source (DTS) to enable the required USB and other ports.
 
